@@ -1,0 +1,13 @@
+{
+  "name": "PyCOEX",
+  "version": "0.1.0",
+  "title": "COEX and corrected UF6 for PyAE",
+  "author": "novaakropola",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1",
+    "~ pypostprocessing >= 3.1.5",
+    "pyalternativeenergy >= 3.2"
+  ],
+  "description": "COEX for processing MOX waste. Improvements to UF6 to better reflect reality."
+}
